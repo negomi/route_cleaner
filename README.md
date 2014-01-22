@@ -1,6 +1,6 @@
 route_cleaner
 ======================
-A command line app to remove potentially erroneous points from a set of lat/long coordinates with timestamps.
+A command line app to remove potentially erroneous points from a car journey, given a set of lat/long coordinates with timestamps.
 
 You'll need the following gems installed for it to work:
 
