@@ -4,7 +4,7 @@ A command line app to remove potentially erroneous points from a car journey, gi
 
 You'll need the following gems installed for it to work:
 
-*   [awesome_print](https://rubygems.org/gems/awesome_print):
+*   [awesome_print](http://rubygems.org/gems/awesome_print):
         `gem install awesome_print`
 *   [geocoder](http://rubygems.org/gems/geocoder):
         `gem install geocoder`
