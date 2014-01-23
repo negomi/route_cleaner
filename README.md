@@ -5,8 +5,8 @@ A command line app to remove potentially erroneous points from a car journey, gi
 You'll need the following gems installed for it to work:
 
 *   [awesome_print](https://rubygems.org/gems/awesome_print):
-        `gem install geocoder`
-*   [geocoder](http://rubygems.org/gems/geocoder):
         `gem install awesome_print`
+*   [geocoder](http://rubygems.org/gems/geocoder):
+        `gem install geocoder`
 
 See `./route_cleaner.rb --help` for more options.
